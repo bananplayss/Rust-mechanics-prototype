@@ -1,7 +1,7 @@
 # Rust-mechanics-prototype
 Mining and chopping trees like in Rust prototype
 
-#Main Features
+# Main Features
 + Hotbar system for axe and pickaxe
 + Rock phases from big to small (based on health)
 + Weak points traveling on the mesh that you hit dealing more damage
